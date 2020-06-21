@@ -1,0 +1,101 @@
+[
+  {
+    "title":"My Updated Post",
+    "content":"My first updated post!\r\n\r\nThis is exciting",
+    "user_id":1
+  },
+  {
+    "title":"My 2nd Post",
+    "content":"This is post from different user",
+    "user_id":2
+  },
+  {
+    "title":"Top 5 programming Languages",
+    "content":"My 3rd updated post!This is exciting",
+    "user_id":1
+  },
+  {
+    "title":"My 4th Updated Post",
+    "content":"My 4th updated post!This is exciting",
+    "user_id":1
+  },
+  {
+    "title":"My Atom Text editor Post",
+    "content":"My first Atom editor post!This is Amezing",
+    "user_id":1
+  },
+  {
+    "title":"My Updated Post",
+    "content":"My first updated post!\r\n\r\nThis is exciting",
+    "user_id":1
+  },
+  {
+    "title":"My 2nd Post",
+    "content":"This is post from different user",
+    "user_id":2
+  },
+  {
+    "title":"Top 5 programming Languages",
+    "content":"My 3rd updated post!This is exciting",
+    "user_id":1
+  },
+  {
+    "title":"My 4th Updated Post",
+    "content":"My 4th updated post!This is exciting",
+    "user_id":1
+  },
+  {
+    "title":"My Atom Text editor Post",
+    "content":"My first Atom editor post!This is Amezing",
+    "user_id":1
+  },
+  {
+    "title":"My Updated Post",
+    "content":"My first updated post!\r\n\r\nThis is exciting",
+    "user_id":1
+  },
+  {
+    "title":"My 2nd Post",
+    "content":"This is post from different user",
+    "user_id":2
+  },
+  {
+    "title":"Top 5 programming Languages",
+    "content":"My 3rd updated post!This is exciting",
+    "user_id":1
+  },
+  {
+    "title":"My 4th Updated Post",
+    "content":"My 4th updated post!This is exciting",
+    "user_id":1
+  },
+  {
+    "title":"My Atom Text editor Post",
+    "content":"My first Atom editor post!This is Amezing",
+    "user_id":1
+  },{
+    "title":"My Updated Post",
+    "content":"My first updated post!\r\n\r\nThis is exciting",
+    "user_id":1
+  },
+  {
+    "title":"My 2nd Post",
+    "content":"This is post from different user",
+    "user_id":2
+  },
+  {
+    "title":"Top 5 programming Languages",
+    "content":"My 3rd updated post!This is exciting",
+    "user_id":1
+  },
+  {
+    "title":"My 4th Updated Post",
+    "content":"My 4th updated post!This is exciting",
+    "user_id":1
+  },
+  {
+    "title":"My Atom Text editor Post",
+    "content":"My first Atom editor post!This is Amezing",
+    "user_id":1
+  }
+]
